@@ -12,23 +12,12 @@
 
 ## 🌟 Achievements & Highlights
 <div align="center">
-  <!-- Podium container -->
-  <div style="text-align:center; position:relative; display:inline-block; margin-top:30px;">
-    
-    <!-- Podium steps -->
-    <div style="display:inline-block; width:80px; height:100px; background:linear-gradient(145deg, #FFD700, #FFA500); margin:0 10px; border-radius:10px 10px 0 0; box-shadow:0 5px 15px rgba(0,0,0,0.4);"></div>
-    
-    <div style="display:inline-block; width:100px; height:150px; background:linear-gradient(145deg, #FFD700, #FFA500); margin:0 10px; border-radius:10px 10px 0 0; box-shadow:0 5px 25px rgba(255,69,0,0.8); position:relative; animation:glow 1.5s infinite alternate;">
-      <!-- Medal -->
-      <div style="width:60px; height:60px; background:radial-gradient(circle at 30% 30%, #FFD700, #FFA500); border-radius:50%; border:3px solid #fff; position:absolute; top:-40px; left:50%; transform:translateX(-50%); box-shadow:0 0 20px #FFD700; display:flex; justify-content:center; align-items:center; font-weight:bold; color:white; font-size:24px;">1</div>
-    </div>
-    
-    <div style="display:inline-block; width:80px; height:100px; background:linear-gradient(145deg, #FFD700, #FFA500); margin:0 10px; border-radius:10px 10px 0 0; box-shadow:0 5px 15px rgba(0,0,0,0.4);"></div>
-    
-    <!-- Label -->
-    <div style="color:#fff; margin-top:20px; font-size:22px; text-shadow:2px 2px 5px #000;">Top Mobile App Developer 🌟</div>
-  </div>
+  <img src="https://img.freepik.com/premium-vector/vector-golden-number-1-wreath-golden-award-pedestal-winner-icon-success_501045-1484.jpg" 
+       width="200" 
+       alt="Top 1 Award" 
+       style="border-radius:50%; box-shadow: 0px 10px 25px rgba(0,0,0,0.4);" />
 </div>
+</br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Top_1_Mobile_Dev_2021-FF4081?style=for-the-badge&logo=appveyor&logoColor=white" />
