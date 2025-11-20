@@ -1,71 +1,63 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,30&height=160&section=header&text=Muhammad%20Basit%20Abbasi&fontAlignY=35&desc=Senior%20Mobile%20App%20Developer%20|%20Flutter%20Expert&descAlignY=55&animation=fadeIn&fontColor=ffffff&fontSize=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30,20&height=160&section=header&text=Muhammad%20Basit%20Abbasi&fontAlignY=35&desc=Senior%20Mobile%20App%20Developer%20|%20Flutter%20&%20AI%20Expert&descAlignY=55&animation=twinkling&fontColor=ffffff&fontSize=55&descSize=20" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Basit+Abbasi+%F0%9F%91%8B;Senior+Mobile+Developer+%F0%9F%9A%80;Flutter+%26+Android+Expert+%F0%9F%93%B1;Building+Powerful+Cross-Platform+Apps+%F0%9F%A7%A0;Made+30%2B+Production+Level+Projects+%F0%9F%8F%86" alt="Typing SVG" />
-</div>
-
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:your-email-here@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/yourtelegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=923000000000">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/yourprofile">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-## 🌟 Crazy Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Top_1_Mobile_Dev_2021-FF4081?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rank_6_Worldwide_StackOverflow-00C853?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Certified-FF6F00?style=for-the-badge&logo=oracle&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=30,12,2&height=6" width="80%" />
-</div>
-
-## 💻 Modern Tech Stack Showcase
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=12,30,2&height=6" width="80%" />
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qE5LMdS7i5MNyqY/giphy.gif" width="250px" style="margin:10px;" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250px" style="margin:10px;" />
-  <img src="https://media.giphy.com/media/xT9KVH2OaGmfnYJ3iM/giphy.gif" width="250px" style="margin:10px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=900&height=80&lines=I+build+%26+launch+mobile+apps+fast+using+Flutter+%F0%9F%94%A5;100%2B+apps+developed+%F0%9F%8F%86;1M%2B+downloads+%F0%9F%8D%90;Android%2FiOS%2C+Web%2C+AI+Integration+%F0%9F%92%BB;Google+Ads+%26+In-App+Purchases+Expert+%F0%9F%92%B0" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌟 Achievements & Highlights
+<div align="center">
+  <img src="https://img.shields.io/badge/Top_1_Mobile_Dev_2021-FF4081?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rank_6_Worldwide_StackOverflow-00C853?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/1M%2B_Downloads-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Certified-FF6F00?style=for-the-badge&logo=oracle&logoColor=white" />
+</div>
 
+---
+
+## 💻 Tech Stack & Expertise
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F0DB4F?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-FF4081?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Ads-00C853?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/In-App_Purchases-FF6D00?style=for-the-badge&logo=apple&logoColor=white" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE5LMdS7i5MNyqY/giphy.gif" width="220" style="margin:10px;" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" style="margin:10px;" />
+  <img src="https://media.giphy.com/media/xT9KVH2OaGmfnYJ3iM/giphy.gif" width="220" style="margin:10px;" />
+</div>
+
+---
+
+## 💡 What I Build
+- Full **cross-platform apps**: Android/iOS/Web with Flutter  
+- **AI-powered** features & automation  
+- Firebase apps: Auth, FCM, Firestore, Storage  
+- Secure **backend APIs** & admin dashboards (PHP/MySQL)  
+- Google Ads & In-App purchase monetization  
+- High-performance UI/UX with smooth animations  
+
+---
+
+## 🌐 Connect & Collaborate
 <div align="center">
   <a href="mailto:your-email-here@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
