@@ -12,7 +12,10 @@
 
 ## 🌟 Achievements & Highlights
 <div align="center">
-  <img src="https://img.freepik.com/premium-vector/top-1-best-podium-award-sign-golden_313905-165.jpg" width="200" alt="Top 1 Award"/>
+  <img src="https://img.freepik.com/premium-vector/top-1-best-podium-award-sign-golden_313905-165.jpg" 
+       width="200" 
+       alt="Top 1 Award" 
+       style="border-radius:50%; box-shadow: 0px 10px 25px rgba(0,0,0,0.4);" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Top_1_Mobile_Dev_2021-FF4081?style=for-the-badge&logo=appveyor&logoColor=white" />
