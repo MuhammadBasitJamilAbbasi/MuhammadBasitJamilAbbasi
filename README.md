@@ -44,12 +44,12 @@
 | 🎓 [Ed Value Plus](https://play.google.com/store/apps/details?id=com.fauji.fsmsppka)                                       | School & Education Management App     | Android / iOS | Attendance, Fees, Exams, Notifications           |
 | 📹 [Talk Mingle](https://play.google.com/store/apps/details?id=com.bj.talkmingle)                                          | Random Video Chat & Social Networking | Android       | Video Calls, Chat, AI Matching                   |
 | 🗣️ [Practice English Speaking](https://play.google.com/store/apps/details?id=com.bj.videocallconnectingsouls)             | Learn & Practice English              | Android       | Video Lessons, Pronunciation AI                  |
-| 🛵 [FaceKart](https://play.google.com/store/apps/details?id=com.facekart.app)                                              | Delivery & Multi-Service App          | Android       | Delivery Tracking, Payments, Multi-Service       |
+| 🛵 [FaceKart](https://play.google.com/store/apps/details?id=com.facekart.app)                                              | Delivery & Multi-Service App          | Android / iOS |  Delivery Tracking, Payments, Multi-Service       |
 | 💼 [FaceKart Vendor](https://play.google.com/store/apps/details?id=com.facekart.appvendor)                                 | Vendor Management App                 | Android       | Orders, Dashboard, Analytics                     |
-| 📈 [Yari.pk](https://play.google.com/store/apps/details?id=com.yari.jobs.app)                                              | Job Finder App                        | Android       | Job Listings, Apply Automatically, Notifications |
+| 📈 [Yari.pk](https://play.google.com/store/apps/details?id=com.yari.jobs.app)                                              | Job Finder App                        | Android / iOS |  Job Listings, Apply Automatically, Notifications |
 | 📚 [Dictionary & Translator](https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app) | English Dictionary & Voice Translator | Android       | Voice Recognition, Translation, Offline Support  |
 | 🖼️ [Image to Text OCR](https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr)                            | Extract Text from Images              | Android       | OCR, Image Filters, Multi-Language               |
-| 💘 [Vortex Dating](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781)                                    | Double Dating App                     | iOS           | Profiles, Matching, Chat, Video Call             |
+| 💘 [Vortex Dating](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781)                                    | Double Dating App                     | Android / iOS |  Profiles, Matching, Chat, Video Call             |
 
 ---
 
