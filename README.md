@@ -39,37 +39,92 @@
 ---
 
 ## 🚀 Featured Projects
-## 🚀 Featured Projects
 
 <div align="center">
 
-### 📱 Mobile Apps (Android / iOS)
-- [Ed Value Plus](https://play.google.com/store/apps/details?id=com.fauji.fsmsppka) – Android/iOS  
-  [App Store Link](https://apps.apple.com/pk/app/edvalue-plus/id6740843451)  
+<table>
+<tr>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.fauji.fsmsppka">
+    <img src="https://play-lh.googleusercontent.com/fauji_fsmsppka_icon_url_here" width="100" /><br/>
+    Ed Value Plus
+  </a>
+</td>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.bj.talkmingle">
+    <img src="https://play-lh.googleusercontent.com/talk_mingle_icon_url_here" width="100" /><br/>
+    Talk Mingle
+  </a>
+</td>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.bj.videocallconnectingsouls">
+    <img src="https://play-lh.googleusercontent.com/practice_english_icon_url_here" width="100" /><br/>
+    Practice English
+  </a>
+</td>
+</tr>
 
-- [Talk Mingle Random Video Call](https://play.google.com/store/apps/details?id=com.bj.talkmingle) – Android  
+<tr>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.facekart.app">
+    <img src="https://play-lh.googleusercontent.com/facekart_icon_url_here" width="100" /><br/>
+    FaceKart
+  </a>
+</td>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.facekart.appvendor">
+    <img src="https://play-lh.googleusercontent.com/facekart_vendor_icon_url_here" width="100" /><br/>
+    FaceKart Vendor
+  </a>
+</td>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.yari.jobs.app">
+    <img src="https://play-lh.googleusercontent.com/yari_icon_url_here" width="100" /><br/>
+    Yari.pk Jobs
+  </a>
+</td>
+</tr>
 
-- [Practice English Speaking App](https://play.google.com/store/apps/details?id=com.bj.videocallconnectingsouls) – Android  
+<tr>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app">
+    <img src="https://play-lh.googleusercontent.com/dictionary_icon_url_here" width="100" /><br/>
+    Dictionary & Translator
+  </a>
+</td>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.bjapps.translator">
+    <img src="https://play-lh.googleusercontent.com/image_translator_icon_url_here" width="100" /><br/>
+    Image Translator
+  </a>
+</td>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.BjApps.multiscanner">
+    <img src="https://play-lh.googleusercontent.com/ascanner_icon_url_here" width="100" /><br/>
+    AScanner
+  </a>
+</td>
+</tr>
 
-- [FaceKart Delivery & More Services](https://play.google.com/store/apps/details?id=com.facekart.app) – Android  
-
-- [FaceKart Vendor](https://play.google.com/store/apps/details?id=com.facekart.appvendor) – Android  
-
-- [FaceKart SalesMan & Admin] – Android/iOS  
-
-- [Yari.pk Job Searching App](https://play.google.com/store/apps/details?id=com.yari.jobs.app) – Android  
-
-- [Dictionary & Translator](https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app) – Android  
-
-- [Translator – Image Translator](https://play.google.com/store/apps/details?id=com.bjapps.translator) – Android  
-
-- [AScanner Document Scanner](https://play.google.com/store/apps/details?id=com.BjApps.multiscanner) – Android  
-
-- [IMAGE TO TEXT OCR FILTER](https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr) – Android  
-
-- [Vortex – Double Dating App](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781) – iOS  
+<tr>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr">
+    <img src="https://play-lh.googleusercontent.com/ocr_icon_url_here" width="100" /><br/>
+    Image to Text OCR
+  </a>
+</td>
+<td align="center">
+  <a href="https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/vortex_icon_url_here" width="100" /><br/>
+    Vortex Dating
+  </a>
+</td>
+<td></td>
+</tr>
+</table>
 
 </div>
+
 
 
 ---
