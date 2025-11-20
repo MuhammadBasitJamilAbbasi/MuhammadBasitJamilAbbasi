@@ -39,11 +39,38 @@
 ---
 
 ## 🚀 Featured Projects
+## 🚀 Featured Projects
+
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qE5LMdS7i5MNyqY/giphy.gif" width="220" style="margin:10px;" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" style="margin:10px;" />
-  <img src="https://media.giphy.com/media/xT9KVH2OaGmfnYJ3iM/giphy.gif" width="220" style="margin:10px;" />
+
+### 📱 Mobile Apps (Android / iOS)
+- [Ed Value Plus](https://play.google.com/store/apps/details?id=com.fauji.fsmsppka) – Android/iOS  
+  [App Store Link](https://apps.apple.com/pk/app/edvalue-plus/id6740843451)  
+
+- [Talk Mingle Random Video Call](https://play.google.com/store/apps/details?id=com.bj.talkmingle) – Android  
+
+- [Practice English Speaking App](https://play.google.com/store/apps/details?id=com.bj.videocallconnectingsouls) – Android  
+
+- [FaceKart Delivery & More Services](https://play.google.com/store/apps/details?id=com.facekart.app) – Android  
+
+- [FaceKart Vendor](https://play.google.com/store/apps/details?id=com.facekart.appvendor) – Android  
+
+- [FaceKart SalesMan & Admin] – Android/iOS  
+
+- [Yari.pk Job Searching App](https://play.google.com/store/apps/details?id=com.yari.jobs.app) – Android  
+
+- [Dictionary & Translator](https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app) – Android  
+
+- [Translator – Image Translator](https://play.google.com/store/apps/details?id=com.bjapps.translator) – Android  
+
+- [AScanner Document Scanner](https://play.google.com/store/apps/details?id=com.BjApps.multiscanner) – Android  
+
+- [IMAGE TO TEXT OCR FILTER](https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr) – Android  
+
+- [Vortex – Double Dating App](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781) – iOS  
+
 </div>
+
 
 ---
 
@@ -59,16 +86,14 @@
 
 ## 🌐 Connect & Collaborate
 <div align="center">
-  <a href="mailto:your-email-here@gmail.com">
+  <a href="mailto:basitabbasi82@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/yourtelegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=923000000000">
+  
+  <a href="https://api.whatsapp.com/send?phone=+923355739701">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yourprofile">
+  <a href="https://www.instagram.com/basitabbasi82">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
