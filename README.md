@@ -9,7 +9,11 @@
 
 ---
 
+
 ## 🌟 Achievements & Highlights
+<div align="center">
+  <img src="https://img.freepik.com/premium-vector/top-1-best-podium-award-sign-golden_313905-165.jpg" width="200" alt="Top 1 Award"/>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Top_1_Mobile_Dev_2021-FF4081?style=for-the-badge&logo=appveyor&logoColor=white" />
   <img src="https://img.shields.io/badge/Rank_6_Worldwide_StackOverflow-00C853?style=for-the-badge&logo=stackoverflow&logoColor=white" />
