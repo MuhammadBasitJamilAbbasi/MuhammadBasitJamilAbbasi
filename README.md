@@ -38,93 +38,17 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.fauji.fsmsppka">
-    <img src="https://play-lh.googleusercontent.com/fauji_fsmsppka_icon_url_here" width="100" /><br/>
-    Ed Value Plus
-  </a>
-</td>
-<td align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.bj.talkmingle">
-    <img src="https://play-lh.googleusercontent.com/talk_mingle_icon_url_here" width="100" /><br/>
-    Talk Mingle
-  </a>
-</td>
-<td align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.bj.videocallconnectingsouls">
-    <img src="https://play-lh.googleusercontent.com/practice_english_icon_url_here" width="100" /><br/>
-    Practice English
-  </a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.facekart.app">
-    <img src="https://play-lh.googleusercontent.com/facekart_icon_url_here" width="100" /><br/>
-    FaceKart
-  </a>
-</td>
-<td align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.facekart.appvendor">
-    <img src="https://play-lh.googleusercontent.com/facekart_vendor_icon_url_here" width="100" /><br/>
-    FaceKart Vendor
-  </a>
-</td>
-<td align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.yari.jobs.app">
-    <img src="https://play-lh.googleusercontent.com/yari_icon_url_here" width="100" /><br/>
-    Yari.pk Jobs
-  </a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app">
-    <img src="https://play-lh.googleusercontent.com/dictionary_icon_url_here" width="100" /><br/>
-    Dictionary & Translator
-  </a>
-</td>
-<td align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.bjapps.translator">
-    <img src="https://play-lh.googleusercontent.com/image_translator_icon_url_here" width="100" /><br/>
-    Image Translator
-  </a>
-</td>
-<td align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.BjApps.multiscanner">
-    <img src="https://play-lh.googleusercontent.com/ascanner_icon_url_here" width="100" /><br/>
-    AScanner
-  </a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr">
-    <img src="https://play-lh.googleusercontent.com/ocr_icon_url_here" width="100" /><br/>
-    Image to Text OCR
-  </a>
-</td>
-<td align="center">
-  <a href="https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/vortex_icon_url_here" width="100" /><br/>
-    Vortex Dating
-  </a>
-</td>
-<td></td>
-</tr>
-</table>
-
-</div>
-
+| App                                                                                                                        | Description                           | Platform      | Features                                         |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ------------- | ------------------------------------------------ |
+| 🎓 [Ed Value Plus](https://play.google.com/store/apps/details?id=com.fauji.fsmsppka)                                       | School & Education Management App     | Android / iOS | Attendance, Fees, Exams, Notifications           |
+| 📹 [Talk Mingle](https://play.google.com/store/apps/details?id=com.bj.talkmingle)                                          | Random Video Chat & Social Networking | Android       | Video Calls, Chat, AI Matching                   |
+| 🗣️ [Practice English Speaking](https://play.google.com/store/apps/details?id=com.bj.videocallconnectingsouls)             | Learn & Practice English              | Android       | Video Lessons, Pronunciation AI                  |
+| 🛵 [FaceKart](https://play.google.com/store/apps/details?id=com.facekart.app)                                              | Delivery & Multi-Service App          | Android       | Delivery Tracking, Payments, Multi-Service       |
+| 💼 [FaceKart Vendor](https://play.google.com/store/apps/details?id=com.facekart.appvendor)                                 | Vendor Management App                 | Android       | Orders, Dashboard, Analytics                     |
+| 📈 [Yari.pk](https://play.google.com/store/apps/details?id=com.yari.jobs.app)                                              | Job Finder App                        | Android       | Job Listings, Apply Automatically, Notifications |
+| 📚 [Dictionary & Translator](https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app) | English Dictionary & Voice Translator | Android       | Voice Recognition, Translation, Offline Support  |
+| 🖼️ [Image to Text OCR](https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr)                            | Extract Text from Images              | Android       | OCR, Image Filters, Multi-Language               |
+| 💘 [Vortex Dating](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781)                                    | Double Dating App                     | iOS           | Profiles, Matching, Chat, Video Call             |
 
 
 ---
