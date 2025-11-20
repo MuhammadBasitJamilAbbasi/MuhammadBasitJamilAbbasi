@@ -37,12 +37,11 @@
 </div>
 
 ---
-
+## 🚀 Featured Projects
 | App                                                                                                                        | Description                           | Platform      | Features                                         |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ------------- | ------------------------------------------------ |
 | ⚡ [LegacyX](https://play.google.com/store/apps/details?id=com.legacyx.legacyx)                                             | Social & Legacy Sharing App           | Android / iOS | Profiles, Media Sharing, Community Engagement    |                                                                                                                   | Description                         
 | 🎓 [Ed Value Plus](https://play.google.com/store/apps/details?id=com.fauji.fsmsppka)                                       | School & Education Management App     | Android / iOS | Attendance, Fees, Exams, Notifications           |
-| 📹 [Talk Mingle](https://play.google.com/store/apps/details?id=com.bj.talkmingle)                                          | Random Video Chat & Social Networking | Android       | Video Calls, Chat, AI Matching                   |
 | 🗣️ [Practice English Speaking](https://play.google.com/store/apps/details?id=com.bj.videocallconnectingsouls)             | Learn & Practice English              | Android       | Video Lessons, Pronunciation AI                  |
 | 🛵 [FaceKart](https://play.google.com/store/apps/details?id=com.facekart.app)                                              | Delivery & Multi-Service App          | Android / iOS |  Delivery Tracking, Payments, Multi-Service       |
 | 💼 [FaceKart Vendor](https://play.google.com/store/apps/details?id=com.facekart.appvendor)                                 | Vendor Management App                 | Android       | Orders, Dashboard, Analytics                     |
@@ -50,6 +49,7 @@
 | 📚 [Dictionary & Translator](https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app) | English Dictionary & Voice Translator | Android       | Voice Recognition, Translation, Offline Support  |
 | 🖼️ [Image to Text OCR](https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr)                            | Extract Text from Images              | Android       | OCR, Image Filters, Multi-Language               |
 | 💘 [Vortex Dating](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781)                                    | Double Dating App                     | Android / iOS |  Profiles, Matching, Chat, Video Call             |
+| 📹 [Talk Mingle](https://play.google.com/store/apps/details?id=com.bj.talkmingle)                                          | Random Video Chat & Social Networking | Android       | Video Calls, Chat, AI Matching                   |
 
 ---
 
