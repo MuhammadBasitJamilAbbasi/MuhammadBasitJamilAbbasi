@@ -43,6 +43,11 @@
   <img src="https://img.shields.io/badge/AI_Integration-FF4081?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Ads-00C853?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/In-App_Purchases-FF6D00?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Services-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-00C853?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
 ---
