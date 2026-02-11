@@ -68,8 +68,6 @@
 | 📹 [Talk Mingle](https://play.google.com/store/apps/details?id=com.bj.talkmingle)                                          | Random Video Chat & Social Networking | Android /IOS      | Video Calls, Chat, AI Matching                   |
 |
 
-| 📹 [Ride Sharing App](https://apkpure.com/developer/Adrenod%20Technologies)                                          | User App / Driver App | Android       | Affordable and safest ride hailing service                  |
-
 ---
 
 ## 💡 What I Build
