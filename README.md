@@ -11,12 +11,7 @@
 
 
 ## 🌟 Achievements & Highlights
-<div align="center">
-  <img src="https://img.freepik.com/premium-vector/vector-golden-number-1-wreath-golden-award-pedestal-winner-icon-success_501045-1484.jpg" 
-       width="200" 
-       alt="Top 1 Award" 
-       style="border-radius:50%; box-shadow: 0px 10px 25px rgba(0,0,0,0.4);" />
-</div>
+<!--  -->
 </br>
 
 <div align="center">
