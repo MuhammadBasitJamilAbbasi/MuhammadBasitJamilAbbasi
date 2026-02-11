@@ -64,9 +64,10 @@
 | 📈 [Yari.pk](https://apkpure.com/yari-pk-job-search/com.yari.jobs.app)                                              | Job Finder App                        | Android / iOS |  Job Listings, Apply Automatically, Notifications |
 | 📚 [Dictionary & Translator](https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app) | English Dictionary & Voice Translator | Android       | Voice Recognition, Translation, Offline Support  |
 | 🖼️ [Image to Text OCR](https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr)                            | Extract Text from Images              | Android       | OCR, Image Filters, Multi-Language               |
-| 💘 [Vortex Dating](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781)                                    | Double Dating App                     | Android / iOS |  Profiles, Matching, Chat, Video Call             |
+| 💘 [Vortex Dating](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781)                                    | Double Dating App                     | Android / iOS |  Profiles, Matching, Chat, Video Call  
+|
 | 📹 [Talk Mingle](https://play.google.com/store/apps/details?id=com.bj.talkmingle)                                          | Random Video Chat & Social Networking | Android /IOS      | Video Calls, Chat, AI Matching                   |
-
+|
 | 📹 [Ride Sharing App ](https://apkpure.com/developer/Adrenod%20Technologies)                                          | User App / Driver App | Android /IOS      | Affordable and safest ride hailing service                    |
 
 
