@@ -66,8 +66,8 @@
 | 🖼️ [Image to Text OCR](https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr)                            | Extract Text from Images              | Android       | OCR, Image Filters, Multi-Language               |
 | 💘 [Vortex Dating](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781)                                    | Double Dating App                     | Android / iOS |  Profiles, Matching, Chat, Video Call             |
 | 📹 [Talk Mingle](https://play.google.com/store/apps/details?id=com.bj.talkmingle)                                          | Random Video Chat & Social Networking | Android /IOS      | Video Calls, Chat, AI Matching                   |
-Ride Sharing App|             |
-| 📹 [Ride Sharing App](https://apkpure.com/developer/Adrenod%20Technologies)                                          | User App / Drier App | Android       | Affordable and safest ride hailing service                  |
+
+| 📹 [Ride Sharing App](https://apkpure.com/developer/Adrenod%20Technologies)                                          | User App / Driver App | Android       | Affordable and safest ride hailing service                  |
 
 ---
 
