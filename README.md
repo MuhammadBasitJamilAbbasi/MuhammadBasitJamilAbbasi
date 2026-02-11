@@ -52,40 +52,26 @@
 
 ---
 ## 🚀 Featured Projects
-| App                                                                                                                        | Description                           | Platform      | Features                                         |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ------------- | ------------------------------------------------ |
-| ⚡ [FFN CARE - MEDICAL APP](https://play.google.com/store/apps/details?id=com.foji.medixapp.medixmobile_app)                                             |Health & Complain           | Android / iOS |  FFNN Care brings all your healthcare needs into one secure and easy-to-use app    | 
-| ⚡ [AI Prompt Checker Prompt Meter](https://play.google.com/store/apps/details?id=com.bj.aipromptchecker.aipromptengineering)                                             | AI            | Android / iOS | I Prompt Checker helps you write strong, expert-level AI prompts for ChatGPT, Gemini, and other AI tools.    | 
-| ⚡ [LegacyX](https://play.google.com/store/apps/details?id=com.legacyx.legacyx)                                             | Social & Legacy Sharing App           | Android / iOS | Profiles, Media Sharing, Community Engagement    |                                                                                                                   | Description                         
-| 🎓 [Ed Value Plus](https://play.google.com/store/apps/details?id=com.fauji.fsmspkapp)                                       | School & Education Management App     | Android / iOS | Attendance, Fees, Exams, Notifications           |
-| 🗣️ [Practice English Speaking](https://play.google.com/store/apps/details?id=com.bj.videocallconnectingsouls)             | Learn & Practice English              | Android       | Video calls,Audio calls, videos ,Pronunciation AI , Lessons              |
-| 🛵 [FaceKart](https://play.google.com/store/apps/details?id=com.facekart.app)                                              | Delivery & Multi-Service App          | Android / iOS |  Delivery Tracking, Payments, Multi-Service       |
-| 💼 [FaceKart Vendor](https://play.google.com/store/apps/developer?id=FaceKart)                                 | Vendor Management App                 | Android       | Orders, Dashboard, Analytics                     |
-| 📈 [Yari.pk](https://apkpure.com/yari-pk-job-search/com.yari.jobs.app)                                              | Job Finder App                        | Android / iOS |  Job Listings, Apply Automatically, Notifications |
-| 📚 [Dictionary & Translator](https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app) | English Dictionary & Voice Translator | Android       | Voice Recognition, Translation, Offline Support  |
-| 🖼️ [Image to Text OCR](https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr)                            | Extract Text from Images              | Android       | OCR, Image Filters, Multi-Language               |
-| 💘 [Vortex Dating](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781)                                    | Double Dating App                     | Android / iOS |  Profiles, Matching, Chat, Video Call  
-|
-| 📹 [Talk Mingle](https://play.google.com/store/apps/details?id=com.bj.talkmingle)                                          | Random Video Chat & Social Networking | Android /IOS      | Video Calls, Chat, AI Matching                   |
+---
 
 ## 🚀 Featured Projects
-| App                                                                                                                        | Description                           | Platform      | Features                                         |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ------------- | ------------------------------------------------ |
-| ⚡ [FFN CARE - MEDICAL APP](https://play.google.com/store/apps/details?id=com.foji.medixapp.medixmobile_app)                                             |Health & Complain           | Android / iOS |  FFNN Care brings all your healthcare needs into one secure and easy-to-use app    | 
-| ⚡ [AI Prompt Checker Prompt Meter](https://play.google.com/store/apps/details?id=com.bj.aipromptchecker.aipromptengineering)                                             | AI            | Android / iOS | I Prompt Checker helps you write strong, expert-level AI prompts for ChatGPT, Gemini, and other AI tools.    | 
-| ⚡ [LegacyX](https://play.google.com/store/apps/details?id=com.legacyx.legacyx)                                             | Social & Legacy Sharing App           | Android / iOS | Profiles, Media Sharing, Community Engagement    |                                                                                                                   | Description                         
-| 🎓 [Ed Value Plus](https://play.google.com/store/apps/details?id=com.fauji.fsmspkapp)                                       | School & Education Management App     | Android / iOS | Attendance, Fees, Exams, Notifications           |
-| 🗣️ [Practice English Speaking](https://play.google.com/store/apps/details?id=com.bj.videocallconnectingsouls)             | Learn & Practice English              | Android       | Video calls,Audio calls, videos ,Pronunciation AI , Lessons              |
-| 🛵 [FaceKart](https://play.google.com/store/apps/details?id=com.facekart.app)                                              | Delivery & Multi-Service App          | Android / iOS |  Delivery Tracking, Payments, Multi-Service       |
-| 💼 [FaceKart Vendor](https://play.google.com/store/apps/developer?id=FaceKart)                                 | Vendor Management App                 | Android       | Orders, Dashboard, Analytics                     |
-| 📈 [Yari.pk](https://apkpure.com/yari-pk-job-search/com.yari.jobs.app)                                              | Job Finder App                        | Android / iOS |  Job Listings, Apply Automatically, Notifications |
-| 📚 [Dictionary & Translator](https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app) | English Dictionary & Voice Translator | Android       | Voice Recognition, Translation, Offline Support  |
-| 🖼️ [Image to Text OCR](https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr)                            | Extract Text from Images              | Android       | OCR, Image Filters, Multi-Language               |
-| 💘 [Vortex Dating](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781)                                    | Double Dating App                     | Android / iOS |  Profiles, Matching, Chat, Video Call  
-|
-| 📹 [Talk Mingle](https://play.google.com/store/apps/details?id=com.bj.talkmingle)                                          | Random Video Chat & Social Networking | Android /IOS      | Video Calls, Chat, AI Matching                   |
 
-| 📹 [Ride Sharing App ](https://apkpure.com/developer/Adrenod%20Technologies)                                          | User App / Driver App | Android /IOS      | Affordable and safest ride hailing service                    |
+| App | Category | Platform | Key Features |
+|-----|----------|----------|-------------|
+| ⚡ [FFN CARE - Medical App](https://play.google.com/store/apps/details?id=com.foji.medixapp.medixmobile_app) | Healthcare | Android / iOS | Complaints, Medical Records, Secure Dashboard |
+| 🤖 [AI Prompt Checker](https://play.google.com/store/apps/details?id=com.bj.aipromptchecker.aipromptengineering) | AI Tool | Android / iOS | Prompt Scoring, AI Optimization, ChatGPT & Gemini Support |
+| ⚡ [LegacyX](https://play.google.com/store/apps/details?id=com.legacyx.legacyx) | Social Platform | Android / iOS | Profiles, Media Sharing, Community Engagement |
+| 🎓 [Ed Value Plus](https://play.google.com/store/apps/details?id=com.fauji.fsmspkapp) | Education | Android / iOS | Attendance, Fees, Exams, Notifications |
+| 🗣️ [Practice English Speaking](https://play.google.com/store/apps/details?id=com.bj.videocallconnectingsouls) | AI Learning | Android | AI Pronunciation, Video Calls, Lessons |
+| 🛵 [FaceKart](https://play.google.com/store/apps/details?id=com.facekart.app) | Delivery Platform | Android / iOS | Real-Time Tracking, Payments, Multi-Service |
+| 💼 [FaceKart Vendor](https://play.google.com/store/apps/developer?id=FaceKart) | Business Dashboard | Android | Orders, Analytics, Vendor Management |
+| 📈 [Yari.pk](https://apkpure.com/yari-pk-job-search/com.yari.jobs.app) | Job Portal | Android / iOS | Job Listings, Apply System, Notifications |
+| 📚 [Dictionary & Translator](https://play.google.com/store/apps/details?id=com.easydictionary.voicetranslator.english.app) | Utility Tool | Android | Voice Recognition, Translation, Offline Mode |
+| 🖼️ [Image to Text OCR](https://play.google.com/store/apps/details?id=com.my.bj.imagetotextocr) | Productivity | Android | OCR, Image Filters, Multi-Language Support |
+| 💘 [Vortex Dating](https://apps.apple.com/gb/app/vortex-double-dating-app/id6749446781) | Dating App | Android / iOS | Matching, Chat, Video Calls |
+| 📹 [Talk Mingle](https://play.google.com/store/apps/details?id=com.bj.talkmingle) | Social Networking | Android / iOS | Video Chat, AI Matching |
+| 🚗 [Ride Sharing App](https://apkpure.com/developer/Adrenod%20Technologies) | Ride Hailing | Android / iOS | User App, Driver App, Secure Trips |
+
 
 
 
