@@ -51,8 +51,7 @@
 </div>
 
 ---
-## 🚀 Featured Projects
----
+
 
 ## 🚀 Featured Projects
 
